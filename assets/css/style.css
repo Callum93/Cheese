@@ -1,0 +1,39 @@
+h1 {
+    color: darkslateblue;
+}
+h2 {
+    color: indigo;
+}
+h3 {
+    color: indigo;
+}
+img {
+    width: 600px;
+}
+
+main {
+    color: purple;
+}
+*{
+    margin-right: 10%;
+    margin-left: 10%;
+    font-family: 'Exo', sans-serif;
+    text-align: center;
+    background-color: deepskyblue
+;
+}
+footer {
+    font-family: monospace;
+    color: lightskyblue;
+}
+#newsArticle {
+
+    box-shadow: 3px 3px 3px aqua;
+    border: solid dodgerblue;
+}
+section {
+    margin: 10px;
+}
+ul li{
+    list-style: square;
+}
