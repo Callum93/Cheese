@@ -1,0 +1,71 @@
+
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    Float: left;
+
+}
+li a{
+    display: inline-block;
+    text-align:center;
+    padding: 0 10px 10px 10px;
+    text-decoration: none;
+}
+
+#title {
+    width:400px;
+
+}
+#logo {
+    width:960px;
+}
+
+body {
+    width:960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section {
+
+    float: left;
+    font-family: 'Roboto', sans-serif;
+
+}
+#chrisina {
+    float: left;
+    width:240px;
+    padding: 1%;
+}
+
+article {
+    float: right;
+
+    background-color: mediumpurple;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 1%
+}
+
+#article2 {
+    background-color: purple;
+
+    margin-top:1%;
+}
+h2, h3 {
+    Font-weight: 300;
+}
+
+footer {
+    background: #363636;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#fix {
+    clear: both;
+}
