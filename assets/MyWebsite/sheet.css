@@ -79,7 +79,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-section {
+section{
 
     float: left;
     font-family: 'Exo', sans-serif;
@@ -142,4 +142,26 @@ iframe {
     text-align:center;
 }
 
+
+#Tess {
+    width:200px;
+    height:200px;
+    border: solid dodgerblue;
+}
+
+#Wilf {
+    width:200px;
+    height:200px;
+    border: solid dodgerblue;
+}
+
+article {
+    text-align: center;
+ }
+
+#Si {
+    width: 250px;
+    height: 25px;
+    text-align:left;
+}
 
